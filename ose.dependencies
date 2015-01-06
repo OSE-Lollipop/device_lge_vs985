@@ -5,9 +5,9 @@
     "branch":      "ose"
   },
   {
-    "repository":  "SlimRoms/kernel_lge_g3",
+    "repository":  "CyanogenMod/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "branch":      "lp5.0"
+    "branch":      "cm-12.0"
   },
   {
     "repository":  "SlimRoms/device_qcom_common",
@@ -30,8 +30,8 @@
     "branch": "lp5.0-caf-8974"
   },
   {
-    "repository": "invisiblek/proprietary_vendor_lge",
+    "repository": "TheMuppets/proprietary_vendor_lge",
     "target_path": "vendor/lge",
-    "branch": "blobupdate"
+    "branch": "cm-12.0"
   }
 ]
